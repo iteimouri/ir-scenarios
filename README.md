@@ -187,4 +187,4 @@ You can contribute or raise issues/questions about the model via the repository'
 
 ## License
 
-This project does not currently specify a license. All rights are reserved by the author unless otherwise noted.
+This project is licensed under the terms of the MIT license.****
