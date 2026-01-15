@@ -1289,7 +1289,7 @@ with tabs[2]:
 AUTHOR_NAME = "Ilia Teimouri"  
 COPYRIGHT_YEAR = "2026"  
 COPYRIGHT_HOLDER = ""  
-GITHUB_URL = "TBC"  
+GITHUB_URL = "https://github.com/iteimouri/ir-scenarios"  
  
 st.markdown("---")  
 st.markdown(  
